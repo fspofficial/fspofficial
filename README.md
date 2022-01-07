@@ -20,9 +20,10 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 
 [![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
 
-## My Blogsites ⚡
+<!-- ## My Blogsites ⚡
 - [🍨 Prathvi Crations](https://prathvi8.blogspot.com)
 - [🍦 Prathvi Blogs](https://prathvi8.blogspot.com)
+-->
 
 ## My Skills 🚀
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
