@@ -1,4 +1,4 @@
-# Hi there, I'm FSP Gang s' Admin aka Prathvi👋
+# Hi there, I'm True Syanic aka Prathvi👋
 <!-- ![](https://raw.githubusercontent.com/AshleySato899/AshleySato899/main/banner-4.png) -->
 
 I'm ██-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
@@ -10,7 +10,7 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 - 💬 You can ask me about Python
 - 📫 How to reach me: [Discord](https://discord.com/users/771740239931768892/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Big fan of 🌈
+- ⚡ Fun fact: Big fan of Minecraft
 
 ## Find me around the web 🌍
 - [📹 1st YouTube Channel](https://www.youtube.com/channel/UCy3-B17ybXnA_z8CIShmyBw) & [2nd](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
