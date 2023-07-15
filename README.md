@@ -13,9 +13,8 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 - ⚡ Fun fact: Big fan of Minecraft
 
 ## Find me around the web 🌍
-- [📹 1st YouTube Channel](https://www.youtube.com/channel/UCy3-B17ybXnA_z8CIShmyBw) & [2nd](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
-- [📷 Instagram Profile](https://www.instagram.com/fspprteek.win10/)
-- [🥛 Facebook Profile](https://www.facebook.com/fsp.prteek.7/)
+- [📹 1st YouTube Channel](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
+- [📷 Instagram Profile](https://www.instagram.com/truesyanic.yt/)
 - [📨 DM me on Discord](https://discord.com/users/771740239931768892)
 
 [![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
@@ -58,7 +57,7 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 </p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fspofficial&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="fspofficial" /></a></p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=fspofficial&theme=cobalt&show_icons=true)](https://github.com/AshleySato899)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=fspofficial&theme=cobalt&show_icons=true)](https://github.com/fspofficial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fspofficial&hide=TeX&layout=compact&theme=cobalt)
 
 ## Contribution Graph 📈
