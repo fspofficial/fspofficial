@@ -4,7 +4,7 @@
 Yo how's u doin? ✌
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 I'm ██-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
 
@@ -18,7 +18,7 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 - ⚡ Fun fact: Big fan of Minecraft
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## Find me around the web 🌍
 - [📹 1st YouTube Channel](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 -->
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## My Skills 🚀
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![](https://img.shields.io/badge/Discord.py-F0A260?style=for-the-badge&logo=discord&logoColor=white)](https://en.wikipedia.org/wiki/Discord_(software))
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## 👨‍💻 Weekly Development Breakdown
 ```
@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ```
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## My Github Status 🦸
 <p align="center">
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fspofficial&hide=TeX&layout=compact&theme=cobalt)
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## Contribution Graph 📈
 <br>
