@@ -1,5 +1,10 @@
-# Hi there, I'm True Syanic aka Prathvi👋
-<!-- ![](https://raw.githubusercontent.com/AshleySato899/AshleySato899/main/banner-4.png) -->
+<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficial" alt="fspofficial">
+<h1 align="center">Hi there, I'm True Syanic aka Prathvi👋</h1>
+
+
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 I'm ██-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
 
@@ -12,6 +17,9 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Big fan of Minecraft
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 ## Find me around the web 🌍
 - [📹 1st YouTube Channel](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
 - [📷 Instagram Profile](https://www.instagram.com/truesyanic.yt/)
@@ -23,6 +31,9 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 - [🍨 Prathvi Crations](https://prathvi8.blogspot.com)
 - [🍦 Prathvi Blogs](https://prathvi8.blogspot.com)
 -->
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## My Skills 🚀
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
@@ -42,10 +53,16 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 [![](https://img.shields.io/badge/Java-3D1675?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![](https://img.shields.io/badge/Discord.py-F0A260?style=for-the-badge&logo=discord&logoColor=white)](https://en.wikipedia.org/wiki/Discord_(software))
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 ## 👨‍💻 Weekly Development Breakdown
 ```
 🔒 Locked 🔒
 ```
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## My Github Status 🦸
 <p align="center">
@@ -60,11 +77,12 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=fspofficial&theme=cobalt&show_icons=true)](https://github.com/fspofficial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fspofficial&hide=TeX&layout=compact&theme=cobalt)
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 ## Contribution Graph 📈
 <br>
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=fspofficial&theme=xcode&area=true" />
 </div>
 <br/>
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=fspofficial'></p>
