@@ -1,7 +1,7 @@
 <img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficial" alt="fspofficial">
 <h1 align="center">Hi there, I'm True Syanic aka Prathvi👋</h1>
 
-
+Yo how's u doin? ✌
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
