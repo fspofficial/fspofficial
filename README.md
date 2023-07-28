@@ -1,4 +1,4 @@
-<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficial" alt="fspofficial">
+<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficial" alt="fspofficial-viewers">
 <h1 align="center">Hi there, I'm True Syanic aka Prathvi👋</h1>
 
 Yo how's u doin? ✌
