@@ -1,5 +1,5 @@
 <img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficialviewers" alt="fspofficial-viewers">
-<h1 align="center">Hi there, I'm True Syanic aka Prathvi👋</h1>
+<h1 align="center">Hi there, I'm Syanic XD (Old True Syanic) aka Prathvi👋</h1>
 
 Yo how's u doin? ✌
 
