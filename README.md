@@ -6,13 +6,13 @@ Yo how's u doin? ✌
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
-I'm ██-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
+I'm 15-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
 
-- 🔭 I’m currently working on Websites and Discord Bots
-- 🌱 I’m currently learning Java & Javascript
+- 🔭 I’m currently working on Minecraft [Mods](https://modrinth.com/user/syanicxd) & Clients [Checkout [PiCapes](https://discord.gg/AfUuEgaq8Y)]
+- 🌱 I’m currently learning Ruby
 - 👯 I would like to collaborate and make friends
-- 🤔 I’m looking for help with Netifiy
-- 💬 You can ask me about Python
+- 🤔 I’m looking for help with UI/UX Design (HTML/CSS)
+- 💬 You can ask me about Python or Node.js
 - 📫 How to reach me: [Discord](https://discord.com/users/771740239931768892/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Big fan of Minecraft
@@ -21,8 +21,8 @@ I'm ██-year-old boy on an intention to enhance as a successful full-stack we
 https://raw.githubusercontent.com/fspofficial/fspofficial/main/magma.png)](https://github.com/fspofficial?tab=repositories)
 
 ## Find me around the web 🌍
-- [📹 1st YouTube Channel](https://www.youtube.com/channel/UCgmRd79LLh1c8LhzVtIzSDA)
-- [📷 Instagram Profile](https://www.instagram.com/truesyanic.yt/)
+- [📹 Main YouTube Channel](https://www.youtube.com/@SyanicXD)
+- [📷 Instagram Profile](https://www.instagram.com/syanicbhaii/)
 - [📨 DM me on Discord](https://discord.com/users/771740239931768892)
 
 [![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
